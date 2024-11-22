@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 08: Integration on Manifolds'
+title: '18.755 S24 Lecture 08: Integration on Manifolds  '
 uid: 6b84bf87-f69e-4949-a05b-5b6415ad94ed
 video_files:
   archive_url: ''

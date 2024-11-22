@@ -14,7 +14,7 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.755 S24 Lecture 25: Borel Subgroups and the Flag Manifold of a Complex
-  Reductive Lie Group'
+  Reductive Lie Group '
 uid: 3093398e-615a-4f28-a2d1-c591f99e2339
 video_files:
   archive_url: ''

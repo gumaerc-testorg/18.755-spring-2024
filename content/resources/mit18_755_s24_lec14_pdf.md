@@ -14,7 +14,7 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.755 S24 Lecture 14: Forms of Semisimple Lie Algebras over an Arbitrary
-  Field'
+  Field '
 uid: 0c597ba8-5bab-4b2b-a4f9-046c041685d4
 video_files:
   archive_url: ''

@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 18: Maximal Tori in Compact Groups, Cartan Decomposition'
+title: '18.755 S24 Lecture 18: Maximal Tori in Compact Groups, Cartan Decomposition  '
 uid: 2ab05bd2-03dd-44b8-bead-e0b6d08bc684
 video_files:
   archive_url: ''

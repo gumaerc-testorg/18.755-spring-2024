@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 07: Differential Forms, Partitions of Unity'
+title: '18.755 S24 Lecture 07: Differential Forms, Partitions of Unity  '
 uid: a1fd863e-fa4c-4e77-92bb-ecb8a7ebef68
 video_files:
   archive_url: ''

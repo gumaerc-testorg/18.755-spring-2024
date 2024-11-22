@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 13: The Hydrogen Atom, II'
+title: '18.755 S24 Lecture 13: The Hydrogen Atom, II '
 uid: 8168b3f6-9352-4d8a-89fb-6ab55c9dd114
 video_files:
   archive_url: ''
