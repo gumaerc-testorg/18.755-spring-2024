@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 22: Levi Decomposition'
+title: '18.755 S24 Lecture 22: Levi Decomposition  '
 uid: ca9eca75-1558-4e5c-a584-af8eb730003b
 video_files:
   archive_url: ''

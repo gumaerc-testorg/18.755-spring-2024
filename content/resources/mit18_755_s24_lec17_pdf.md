@@ -14,7 +14,7 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '18.755 S24 Lecture 17: Classification of Connected Compact and Complex Reductive
-  Groups'
+  Groups  '
 uid: 7ecc9ced-014a-4575-a69b-1e9c7c4b26df
 video_files:
   archive_url: ''

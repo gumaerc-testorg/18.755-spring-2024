@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 19: Topology of Lie Groups and Homogeneous Spaces, I'
+title: '18.755 S24 Lecture 19: Topology of Lie Groups and Homogeneous Spaces, I  '
 uid: 050fd6f4-6c63-42ef-a312-8468854dafb3
 video_files:
   archive_url: ''

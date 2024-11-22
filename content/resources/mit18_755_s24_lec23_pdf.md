@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 23: The Third Fundamental Theorem of Lie Theory'
+title: '18.755 S24 Lecture 23: The Third Fundamental Theorem of Lie Theory  '
 uid: 429ef66d-1bae-4606-b393-0223c566f369
 video_files:
   archive_url: ''
