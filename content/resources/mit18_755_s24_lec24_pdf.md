@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 24: Ado''s Theorem'
+title: '18.755 S24 Lecture 24: Ado''s Theorem  '
 uid: 8ddfd32d-8a96-412d-874b-7e8714f9c2e1
 video_files:
   archive_url: ''

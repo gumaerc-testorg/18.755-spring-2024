@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 02: Representations of GLn, II'
+title: '18.755 S24 Lecture 02: Representations of GLn, II '
 uid: fabf0e49-9394-4c4b-93e1-06af0924f367
 video_files:
   archive_url: ''

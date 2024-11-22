@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 16: Real Forms of Exceptional Lie Algebras'
+title: '18.755 S24 Lecture 16: Real Forms of Exceptional Lie Algebras  '
 uid: 89d6b9a6-f440-4aa2-8b24-67ef9f5cd1ef
 video_files:
   archive_url: ''

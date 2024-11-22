@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 09: Representations of Compact Lie Groups'
+title: '18.755 S24 Lecture 09: Representations of Compact Lie Groups  '
 uid: 454a8b6e-1c3f-43c5-aec4-02be2f620549
 video_files:
   archive_url: ''

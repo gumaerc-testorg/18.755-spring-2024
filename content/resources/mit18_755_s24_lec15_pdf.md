@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 15: Classification of Real Forms of Semisimple Lie Algebras'
+title: '18.755 S24 Lecture 15: Classification of Real Forms of Semisimple Lie Algebras '
 uid: fa2f9045-f237-423c-a1fa-f6bec780acb3
 video_files:
   archive_url: ''

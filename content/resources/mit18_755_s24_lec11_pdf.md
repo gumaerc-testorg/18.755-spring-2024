@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 11: Representations of Compact Topological Groups'
+title: '18.755 S24 Lecture 11: Representations of Compact Topological Groups  '
 uid: 68f93a1d-71de-4faf-87d2-f539af489672
 video_files:
   archive_url: ''

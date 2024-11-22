@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.755 S24 Lecture 10: Proof of the Peter-Weyl Theorem'
+title: '18.755 S24 Lecture 10: Proof of the Peter-Weyl Theorem  '
 uid: 22a1153c-5bd5-4cba-81c2-50ccdf7924a7
 video_files:
   archive_url: ''
