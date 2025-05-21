@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-755-lie-groups-and-lie-algebras-ii-spring-2024/mit18_755_s24_lec22.pdf
+file: courses/lie-groups-and-lie-algebras-ii/mit18_755_s24_lec22.pdf
 file_size: 463145
 file_type: application/pdf
 image_metadata:
