@@ -12,9 +12,9 @@ Lectures: 2 sessions / week, 80 minutes / session
 
 ## Prerequisites
 
-- {{% resource_link "560fa5e8-10e5-434e-8e7e-c82033d30e35" "*18.701 Algebra I*" %}} or {{% resource_link "7d636dde-2ce9-4bf7-9bc5-12ddb669f889" "*18.702 Algebra II*" %}}
-- {{% resource_link "182f769f-8dc7-456a-874d-3cd24191775a" "*18.100B Analysis I*" %}}
-- {{% resource_link "71d42d8b-1e2f-4e13-a671-0a5911d92314" "*18.745 Lie Groups and Lie Algebras I*" %}}
+- [*18.701 Algebra I*](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/) or [*18.702 Algebra II*](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/)
+- [*18.100B Analysis I*](https://ocw.mit.edu/courses/18-100b-analysis-i-fall-2010/)
+- [*18.745 Lie Groups and Lie Algebras I*](https://ocw.mit.edu/courses/18-745-lie-groups-and-lie-algebras-i-fall-2020/)
 
 ## Course Description
 
